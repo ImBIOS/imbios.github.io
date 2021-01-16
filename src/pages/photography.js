@@ -52,7 +52,7 @@ const Photography = ({ scrollPosition }) => {
               I always belive that, a single photo can change entire world from
               nuclear disaster field to garden. I occasionally upload the photo
               on the my&nbsp;
-              <a href="https://www.instagram.com/abusalam16">
+              <a href="https://www.instagram.com/naveenda_">
                 Instagram account.
               </a>
               &nbsp; I always want to become a street photographer, but I never

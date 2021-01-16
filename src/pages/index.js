@@ -17,7 +17,7 @@ export default function Home() {
               <div className="col">
                 <Fade left>
                   <div className="profile-image">
-                    <img src={cdnImage("solo-play-transparent.png", false, "")} />
+                    <img src={cdnImage("naveen-da-profile.png", false, "")} />
                   </div>
                   <h1>Hi,</h1>
                   <h1>I'm Naveen DA</h1>
@@ -28,7 +28,7 @@ export default function Home() {
                   </p>
                   <p className="icons">
                     <Bounce delay={1000}>
-                      <a href="#">
+                      <a href="https://stackoverflow.com/users/6335029/naveenda">
                         <i
                           className="fa fa-stack-overflow"
                           aria-hidden="true"
@@ -36,27 +36,27 @@ export default function Home() {
                       </a>
                     </Bounce>
                     <Bounce delay={1000}>
-                      <a href="https://github.com/ImBIOS">
+                      <a href="https://github.com/NaveenDA">
                         <i className="fa fa-github" aria-hidden="true"></i>
                       </a>
                     </Bounce>
                     <Bounce delay={1000}>
-                      <a href="https://twitter.com/ImamuzzakiS">
+                      <a href="https://twitter.com/NaveenDA_">
                         <i className="fa fa-twitter" aria-hidden="true"></i>
                       </a>
                     </Bounce>
                     <Bounce delay={1000}>
-                      <a href="#">
+                      <a href="https://dribbble.com/naveenda">
                         <i className="fa fa-dribbble" aria-hidden="true"></i>
                       </a>
                     </Bounce>
                     <Bounce delay={1000}>
-                      <a href="#">
+                      <a href="http://medium.com/@NaveenDA">
                         <i className="fa fa-medium" aria-hidden="true"></i>
                       </a>
                     </Bounce>
                     <Bounce delay={1000}>
-                      <a href="https://www.linkedin.com/in/imamuzzaki-abu-salam-191889194/">
+                      <a href="https://www.linkedin.com/in/naveenda/">
                         <i
                           className="fa fa-linkedin-square"
                           aria-hidden="true"

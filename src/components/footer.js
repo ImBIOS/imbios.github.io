@@ -12,13 +12,13 @@ const Footer = (props) => {
           <h3>Thanks for stick with End !</h3>
           <LightSpeed delay={1000}>
             <p>
-              <a href="https://twitter.com/ImamuzzakiS">
+              <a href="https://twitter.com/NaveenDA_">
                 <i className="fa fa-twitter" aria-hidden="true"></i>
               </a>
-              <a href="#">
+              <a href="http://medium.com/@NaveenDA">
                 <i className="fa fa-medium" aria-hidden="true"></i>
               </a>
-              <a href="#">
+              <a href="https://dribbble.com/naveenda">
                 <i className="fa fa-dribbble" aria-hidden="true"></i>
               </a>
             </p>
