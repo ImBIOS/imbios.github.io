@@ -5,11 +5,9 @@ node_js:
   - "node"
 install:       npm install
 script:
-  - npm test
+  - npm build
 cache:
   directories:
     - node_modules
 notifications:
   email:       false
-env:
-  - TRAVIS_BUILD_DIR=./src
