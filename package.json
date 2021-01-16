@@ -2,7 +2,7 @@
   "name": "imbios.github.io",
   "version": "1.0.0",
   "description": "imbios.github.io",
-  "main": "index.js",
+  "main": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ImBIOS/imbios.github.io.git"

@@ -11,3 +11,5 @@ cache:
     - node_modules
 notifications:
   email:       false
+env:
+  - TRAVIS_BUILD_DIR=./src
