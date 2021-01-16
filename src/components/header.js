@@ -12,7 +12,7 @@ const Header = (props) => {
     <>
       <header>
         <div className="logo">
-        <Link href="/"><img src="/naveenda-logo.svg" /></Link>
+        {/* <Link href="/"><img src="/naveenda-logo.svg" /></Link> */}
         </div>
         <ul className="links">
           <li className={router.pathname == "/" ? "active" : ""}>
@@ -25,7 +25,7 @@ const Header = (props) => {
             <Link href="/">Drawing</Link>
           </li>
           <li>
-            <Link href="https://twitter.com/NaveenDA_">Contact Me</Link>
+            <Link href="https://twitter.com/ImamuzzakiS">Contact Me</Link>
           </li>
           <li>
             <ToggleTheme />

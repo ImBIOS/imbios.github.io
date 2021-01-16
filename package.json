@@ -1,22 +1,22 @@
 {
-  "name": "naveenda.github.io",
+  "name": "imbios.github.io",
   "version": "1.0.0",
-  "description": "",
+  "description": "imbios.github.io",
   "main": "index.js",
-  "scripts": {
-    "build": "cd src && npm run build"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NaveenDA/naveenda.github.io.git"
+    "url": "git+https://github.com/ImBIOS/imbios.github.io.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Imamuzzaki Abu Salam <41441643+ImBIOS@users.noreply.github.com>",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NaveenDA/naveenda.github.io/issues"
+    "url": "https://github.com/ImBIOS/imbios.github.io/issues"
   },
-  "homepage": "https://github.com/NaveenDA/naveenda.github.io#readme",
-  "dependencies": {
-  }
+  "homepage": "https://github.com/ImBIOS/imbios.github.io#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imbios"
+  ]
 }
