@@ -17,7 +17,7 @@ export default function Home() {
               <div className="col">
                 <Fade left>
                   <div className="profile-image">
-                    <img src={cdnImage("naveen-da-profile.png", false, "")} />
+                    <img src={cdnImage("solo-play-transparent.png", false, "")} />
                   </div>
                   <h1>Hi,</h1>
                   <h1>I'm Naveen DA</h1>
