@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Naveen DA Portfolio </title>
+        <title>ImBIOS Portfolio </title>
       </Head>
       <div className="homepage">
         <main>
@@ -51,7 +51,7 @@ export default function Home() {
                       </a>
                     </Bounce>
                     <Bounce delay={1000}>
-                      <a href="http://medium.com/@NaveenDA">
+                      <a href="http://medium.com/@imamuzzaki">
                         <i className="fa fa-medium" aria-hidden="true"></i>
                       </a>
                     </Bounce>

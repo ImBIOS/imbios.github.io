@@ -15,7 +15,7 @@ const Footer = (props) => {
               <a href="https://twitter.com/NaveenDA_">
                 <i className="fa fa-twitter" aria-hidden="true"></i>
               </a>
-              <a href="http://medium.com/@NaveenDA">
+              <a href="http://medium.com/@imamuzzaki">
                 <i className="fa fa-medium" aria-hidden="true"></i>
               </a>
               <a href="https://dribbble.com/naveenda">
