@@ -36,12 +36,12 @@ export default function Home() {
                       </a>
                     </Bounce>
                     <Bounce delay={1000}>
-                      <a href="https://github.com/NaveenDA">
+                      <a href="https://github.com/ImBIOS">
                         <i className="fa fa-github" aria-hidden="true"></i>
                       </a>
                     </Bounce>
                     <Bounce delay={1000}>
-                      <a href="https://twitter.com/NaveenDA_">
+                      <a href="https://twitter.com/ImamuzzakiS">
                         <i className="fa fa-twitter" aria-hidden="true"></i>
                       </a>
                     </Bounce>
