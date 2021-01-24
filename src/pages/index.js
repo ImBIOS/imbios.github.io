@@ -28,7 +28,7 @@ export default function Home() {
                   </p>
                   <p className="icons">
                     <Bounce delay={1000}>
-                      <a href="https://stackoverflow.com/users/6335029/naveenda">
+                      <a href="https://stackoverflow.com/users/13218717/imega">
                         <i
                           className="fa fa-stack-overflow"
                           aria-hidden="true"
